@@ -5,7 +5,8 @@
 is your Youtube experience boring,,, are you having  
 trouble finding the love of your life in a video </3
 
-<img width="433" height="577" alt="bg_f8f8f8-flat_750x_075_f-pad_750x1000_f8f8f8-removebg-preview" src="https://github.com/user-attachments/assets/78401d77-a936-4b4b-9d1b-39f048fbf333" />
+<img width="600" height="538" alt="fdfaf2b0-cb1b-4281-8488-8e502cb4a6fe_removalai_preview" src="https://github.com/user-attachments/assets/d46c3333-35f9-4299-b709-f97f0edb86ad" />
+
 
 
 **ye shall not be distraught.**
