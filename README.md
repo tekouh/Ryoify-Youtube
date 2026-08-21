@@ -1,4 +1,4 @@
-<div align = center>
+<img width="400" height="193" alt="2026-08-21 19-35-37" src="https://github.com/user-attachments/assets/bf1ba2ae-ebe9-4d5b-9329-a2a1f37a6b5a" /><div align = center>
 
 # 💙𝚁𝚢𝚘𝚞𝚒𝚏𝚢💙
 
@@ -13,6 +13,7 @@ trouble finding the love of your life in a video </3
 this extension adds the famous loner  
 bassist **Ryo Yamada** to every thumbnail.
 
+<img width="400" height="193" alt="2026-08-21 19-35-37" src="https://github.com/user-attachments/assets/00062df7-34ed-4c4d-829c-cd9584a58160" />
 
 </div>
 
