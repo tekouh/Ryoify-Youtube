@@ -12,6 +12,7 @@ trouble finding the love of your life in a video </3
 
 this extension adds the famous loner  
 bassist **Ryo Yamada** to every thumbnail.
+[tutorial on enabling this](https://<your-username>.github.io/Ryouify-Youtube/)
 
 <img width="700" height="337" alt="2026-08-21 19-35-37" src="https://github.com/user-attachments/assets/c3914d70-24cb-4fcf-9a55-b4c8da35c4cf" />
 
