@@ -1,4 +1,4 @@
-<img width="400" height="193" alt="2026-08-21 19-35-37" src="https://github.com/user-attachments/assets/bf1ba2ae-ebe9-4d5b-9329-a2a1f37a6b5a" /><div align = center>
+<div align = center>
 
 # 💙𝚁𝚢𝚘𝚞𝚒𝚏𝚢💙
 
