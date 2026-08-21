@@ -1,6 +1,6 @@
 <div align = center>
 
-# Ryoify
+# Ryouify
 
 is your Youtube experience boring,,, are you having  
 trouble finding the love of your life in a video </3
