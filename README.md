@@ -13,8 +13,7 @@ trouble finding the love of your life in a video </3
 this extension adds the famous loner  
 bassist **Ryo Yamada** to every thumbnail.
 
-<img width="400" height="193" alt="2026-08-21 19-35-37" src="https://github.com/user-attachments/assets/00062df7-34ed-4c4d-829c-cd9584a58160" />
-
+<img width="700" height="337" alt="2026-08-21 19-35-37" src="https://github.com/user-attachments/assets/c3914d70-24cb-4fcf-9a55-b4c8da35c4cf" />
 
 </div>
 
