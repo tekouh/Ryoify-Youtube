@@ -23,3 +23,7 @@ bassist **Ryo Yamada** to every thumbnail.
 - this extension should be compatible with any Firefox / Chromium based browser.
 - this extension is unofficial and not affiliated with THE Ryo Yamada or YouTube.
 - If i have included your art(s) in this extension and want to remove it (with proof of ownership), DM **cloudivines** on Discord! 😊
+
+</div>
+
+# First time doing github and stuff, if there's any problem about this extension, Message me!!!
