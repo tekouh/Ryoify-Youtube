@@ -10,7 +10,7 @@ trouble finding the love of your life in a video </3
 
 
 
-**ye shall not be distraught.**
+**thou shall not be distraught.**
 
 this extension adds the famous  
 bassist **Ryo Yamada** to every thumbnail.
@@ -26,4 +26,4 @@ bassist **Ryo Yamada** to every thumbnail.
 
 </div>
 
-# First time doing github and stuff, if there's any problem about this extension, Message me!!!
+# First time doing github and stuff, if there's any problem about this extension, Make a Public Issue!!
