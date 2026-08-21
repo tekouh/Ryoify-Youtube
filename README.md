@@ -10,7 +10,7 @@ trouble finding the love of your life in a video </3
 
 **thou shall not be distraught.**
 
-this extension adds the famous  
+this extension adds the famous loner  
 bassist **Ryo Yamada** to every thumbnail.
 
 
