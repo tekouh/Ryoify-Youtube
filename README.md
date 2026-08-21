@@ -20,7 +20,7 @@ bassist **Ryo Yamada** to every thumbnail.
 ## notessss,,,,,
 
 - this extension should be compatible with any Firefox / Chromium based browser.
-- 100% of the credit goes to **MagicJinn** for the main Mrbeastify plugin, i just customized to be Ryo themed
+- 100% of the credit goes to **MagicJinn** for the main Mrbeastify plugin, i just customized it to be Ryo themed
 - this extension is unofficial and not affiliated with THE Ryo Yamada or YouTube.
 - If i have included your art(s) in this extension and want to remove it (with proof of ownership), DM **cloudivines** on Discord! 😊
 
