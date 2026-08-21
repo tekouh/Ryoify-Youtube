@@ -15,6 +15,7 @@ bassist **Ryo Yamada** to every thumbnail.
 
 <img width="400" height="193" alt="2026-08-21 19-35-37" src="https://github.com/user-attachments/assets/00062df7-34ed-4c4d-829c-cd9584a58160" />
 
+
 </div>
 
 ## notessss,,,,,
