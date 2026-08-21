@@ -1,6 +1,6 @@
 <div align = center>
 
-# 💙𝚁𝚢𝚘𝚞𝚒𝚏𝚢💙
+## 💙𝚁𝚢𝚘𝚞𝚒𝚏𝚢💙
 
 is your Youtube experience boring,,, are you having  
 trouble finding the love of your life in a video </3
@@ -17,7 +17,7 @@ bassist **Ryo Yamada** to every thumbnail.
 
 </div>
 
-## notessss,,,,,
+# notessss,,,,,
 
 - this extension should be compatible with any Firefox / Chromium based browser.
 - 100% of the credit goes to **MagicJinn** for the main Mrbeastify plugin, i just customized it to be Ryo themed
@@ -26,4 +26,4 @@ bassist **Ryo Yamada** to every thumbnail.
 
 </div>
 
-# First time doing github and stuff, if there's any problem about this extension, Make a Public Issue!!
+# First time doing github and stuff, if there's any problem about this extension, make a Public Issue!!
