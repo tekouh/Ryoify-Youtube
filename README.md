@@ -1,6 +1,6 @@
 <div align = center>
 
-# Ryouify
+# 💙Ryouify💙
 
 is your Youtube experience boring,,, are you having  
 trouble finding the love of your life in a video </3
@@ -21,5 +21,5 @@ bassist **Ryo Yamada** to every thumbnail.
 ## notessss,,,,,
 
 - this extension should be compatible with any Firefox / Chromium based browser.
-- this extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
 - this extension is unofficial and not affiliated with THE Ryo Yamada or YouTube.
+- If i have included your art(s) in this extension and want to remove it (with proof of ownership), DM **cloudivines** on Discord! 😊
